@@ -17,6 +17,7 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Videos, Podcasts, Livestreams, Talks](#videos-podcasts-livestreams-talks)
 - [Integration Guides](#integration-guides)
 - [Other interesting articles](#other-interesting-articles)
+- 
 
 ## Official Starters
 
@@ -63,7 +64,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Generate Supabase Database Types GitHub Action](https://github.com/lyqht/generate-supabase-db-types-github-action) - GitHub action to generate types based on your Supabase database. 
 - [Supabase Cache Helpers](https://github.com/psteinroe/supabase-cache-helpers) - Collection of framework specific Cache utilities for working with Supabase.
 - [Postgres WASM by Snaplet and Supabase](https://supabase.com/blog/postgres-wasm) - Tool to run Postgres in the browser.
-
+- [Supabase Backup](https://simplebackups.com/database/supabase/) - App to back up Supabase to any cloud provider
 
 ## Online Courses
 
@@ -80,6 +81,7 @@ Featured at [Cloudflare x Supabase Developer Meetup](https://t.co/sqmDQahsA4). F
 - [CityJS 2022 Talk on Building Billy with Supabase](https://www.youtube.com/watch?v=UiANV3uqT04&t=6841s) - A talk on how a React Native expense tracker side project is built with Supabase, by a SupaSquad member [Estee Tey](https://esteetey.dev/).
 - [Build An Image Gallery With Supabase Storage and React](https://www.youtube.com/watch?v=8tfdY0Sf2rA) - A tutorial on using Supabase to upload & serve images.
 - [PMF is one pivot away with Ant Wilson from Supabase](https://podcast.bitreach.io/episodes/product-market-fit-is-one-pivot-away-with-ant-wilson-founder-of-supabase) - Talks about Supabase's experiences of the phases before and after Product Market Fit (PMF).
+- [Supabase backup & recovery guide](https://youtu.be/_iVKjnlQf00?si=KcryjjVlAbsIRaxZ)
 
 ## Integration Guides
 
